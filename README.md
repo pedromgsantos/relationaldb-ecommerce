@@ -39,10 +39,7 @@ This project implements a complete relational database system for a fictitious b
 2. **Audit Log Trigger** – Records all critical operations in log table for compliance
 
 ### Business Queries
-Five analytical queries addressing CEO-level business questions:
-- At least 3 queries use JOINs and GROUP BY operations
-- Queries span multiple years of transaction data
-- Results support strategic decision-making
+Contains five analytical queries addressing CEO-level business questions that queries span multiple years of transaction data and which results support strategic decision-making.
 
 ### Invoice Generation
 Two MySQL views working together:
