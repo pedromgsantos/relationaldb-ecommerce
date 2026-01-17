@@ -11,7 +11,7 @@ Tiago Duarte – 20250360 – [20250360@novaims.unl.pt](mailto:20250360@novaims.
 This project implements a complete relational database system for a fictitious business. The database supports core business operations including transactions, inventory management, customer ratings, and automated invoice generation.
 ---
 ## Repository Contents
-- **ProjectSRD.sql** – Complete database creation script with schema, triggers, sample data, and queries, views, etc
+- **ProjectSRD.sql** – Complete database creation script with schema, triggers, sample data, and queries
 - **EER_Diagram.png** – Entity-Relationship Diagram showing database structure
 ---
 ## Database Features
