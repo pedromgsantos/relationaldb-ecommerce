@@ -1,5 +1,5 @@
 # Storing and Retrieving Data – Final Project
-Project for the Storing and Retrieving Data course, NOVA IMS
+Project for the Storing and Retrieving Data course, Masters in Data Science and Advanced Analytics, NOVA IMS
 ---
 ## Project Authors
 Pedro Santos – 20250399 – [20250399@novaims.unl.pt](mailto:20250399@novaims.unl.pt)  
